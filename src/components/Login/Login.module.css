@@ -1,0 +1,10 @@
+.input {
+    background-color: rgb(55, 69, 110);
+    border: 0;
+    color: white;
+}
+
+.input:focus {
+    color: white;
+    background-color: rgb(55, 69, 110);
+}

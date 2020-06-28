@@ -1,0 +1,40 @@
+.navBg {
+    background-color: #171a21;
+}
+
+.navbarBrand {
+    max-width: 75px;
+    max-height: 75px;
+}
+
+.logout {
+    border: 0;
+    background-color: transparent;
+    transition: .3s;
+    color: rgba(255,255,255,.5);
+}
+
+.logout:hover {
+    cursor: pointer;
+    color: rgba(255,255,255, .8);
+}
+
+.cart {
+    height: 30px;
+    width: 30px;
+}
+
+.link {
+    color: rgba(255,255,255,.5);
+    transition: .3s;
+}
+
+.link:hover {
+    color: rgba(255,255,255,.8);
+    text-decoration: none;
+}
+
+
+
+
+
